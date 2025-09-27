@@ -1,7 +1,7 @@
 # 🦴 Bone Fracture Detection using Deep Learning  
 
 ## 📌 Overview  
-This project applies CNN (ResNet50 transfer learning) and YOLOv8 for detecting and classifying 10 types of bone fractures** using the Human Bone Fractures Multi-modal Image Dataset (HBFMID).  
+This project applies CNN (ResNet50 transfer learning) and YOLOv8 for detecting and classifying 10 types of bone fractures using the Human Bone Fractures Multi-modal Image Dataset (HBFMID).  
 
 ## 🚀 Models Implemented  
 - ✅ **CNN with ResNet50** – Baseline classifier (~56% accuracy)  
