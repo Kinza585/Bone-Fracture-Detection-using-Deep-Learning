@@ -9,7 +9,7 @@ This project applies CNN (ResNet50 transfer learning) and YOLOv8 for detecting a
 
 ## 📂 Dataset  
 Dataset: **Human Bone Fractures Multi-modal Image Dataset (HBFMID)**  
-[Kaggle Link](https://www.kaggle.com/datasets/andrewmvd/human-bone-fractures)  
+[Kaggle Link](https://www.kaggle.com/datasets/orvile/human-bone-fractures-image-dataset-hbfmid/data)  
 
 **Classes:**  
 Comminuted, Greenstick, Healthy, Linear, Oblique Displaced, Oblique, Segmental, Spiral, Transverse Displaced, Transverse  
